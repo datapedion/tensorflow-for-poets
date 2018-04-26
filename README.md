@@ -1,7 +1,20 @@
 # Overview
 
-This repo contains an example implementing the tutorial for "TensorFlow for poets" series of codelabs.
+This is an example on how to use Tensoflow for picture classifaction. 
+Building an android-app to get a mobile testing device of what is possible and what is sometimes not.
+This example is based on the tutorial for "TensorFlow for poet s2" series of codelabs.
 
+Goals are achieved:
+
+
+    1. train a custom image recognition model.
+    2. optimize your model.
+    3. How to compress your model.
+    4. How to run it in a pre-made Android app.
+
+
+
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/
 
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
