@@ -1,6 +1,7 @@
 # Overview
 
-This repo contains code for the "TensorFlow for poets 2" series of codelabs.
+This repo contains an example implementing the tutorial for "TensorFlow for poets" series of codelabs.
+
 
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
